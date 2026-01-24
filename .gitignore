@@ -5,4 +5,5 @@
 *.old
 *.un~
 *.exe
+.vscode
 Session.vim
