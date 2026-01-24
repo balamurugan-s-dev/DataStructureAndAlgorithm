@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int oddOrEven(int &n){
+bool oddOrEven(int &n){
 	
 	if(n % 2 == 0)
 		return true;
